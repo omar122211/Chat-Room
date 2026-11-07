@@ -1,0 +1,5 @@
+# build output
+server
+client
+# chat logs written by the client
+*.txt
